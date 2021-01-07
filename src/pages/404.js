@@ -92,7 +92,7 @@ const NotFound = () => {
         <TitleWrap>
           <Title>404</Title>
           <Divider />
-          <Desc>Page not found</Desc>
+          <Desc>Page not found.</Desc>
         </TitleWrap>
         <Canvas ref={canvasRef} />
       </Container>
