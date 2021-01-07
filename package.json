@@ -41,8 +41,8 @@
     "styled-components": "^5.2.0",
     "styled-reset": "^4.2.3",
     "typography": "^0.16.19",
-    "vscode-theme-github-light": "github:chuling/vscode-theme-github-light"
-    "netlify-cms-app": "^2.11.13",
+    "vscode-theme-github-light": "github:chuling/vscode-theme-github-light",
+    "netlify-cms-app": "^2.11.13"
   },
   "devDependencies": {
     "eslint": "^7.11.0",
