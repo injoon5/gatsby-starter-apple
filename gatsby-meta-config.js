@@ -8,5 +8,5 @@ module.exports = {
   links: {
     github: 'https://github.com/injoon5', // Your github repository
   },
-  icon: 'https://avatars1.githubusercontent.com/u/52849281?s=460&u=64106e70e8adc00414d015772d24e4d0efe200ef&v=4', //  Favicon Path
+  icon: 'https://github.com/injoon5/gatsby-starter-delog/blob/master/src/images/icon.png?raw=true', //  Favicon Path
 };
