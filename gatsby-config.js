@@ -29,6 +29,7 @@ module.exports = {
       'gatsby-plugin-robots-txt',
       `gatsby-plugin-sitemap`,
       `gatsby-plugin-feed`,
+      'gatsby-plugin-netlify-cms',
     ],
   },
   plugins: [
