@@ -8,5 +8,5 @@ module.exports = {
   links: {
     github: 'https://github.com/injoon5', // Your github repository
   },
-  icon: '/src/images/icon.png', //  Favicon Path
+  icon: 'src/images/icon.png', //  Favicon Path
 };
