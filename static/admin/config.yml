@@ -3,8 +3,8 @@ backend:
   # change repo to your git repository url
   repo: injoon5/gatsby-starter-apple
 
-media_folder: public/assets
-public_folder: public
+media_folder: static/img
+public_folder: /img
 
 collections:
   - name: blog
